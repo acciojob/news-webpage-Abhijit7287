@@ -31,10 +31,13 @@ header{
 }
 .pictorial-news-section{
 	width:200px;
-	height:100px;
+	height:420px;
 	background-color:white;
 	border-radius:15px;
 	padding:10px;
+}
+img{
+	width:200px;
 }
 
 
